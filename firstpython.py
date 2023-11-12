@@ -1,1 +1,2 @@
-First python file
+#First python file
+print(Hello world)
